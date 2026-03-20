@@ -1,0 +1,5 @@
+permit tcp any any eq 80
+permit tcp any any eq 443
+permit udp any any eq 53
+permit ip any 10.0.0.0 0.0.0.255
+permit ip any 20.0.0.0 0.0.0.255

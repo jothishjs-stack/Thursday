@@ -1,0 +1,6 @@
+ping to 192.168.0.1 succeessful
+ping to 192.168.0.1 succeessful
+ping to 192.168.0.1 succeessful
+ping to 192.168.0.1 succeessful
+ping to 192.168.0.1 succeessful
+ping to 192.168.0.1 succeessful

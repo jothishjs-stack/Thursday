@@ -1,0 +1,7 @@
+permit ip any 192.168.10.0 0.0.0.255
+permit ip any 192.168.20.0 0.0.0.255
+permit tcp any any eq 80
+permit tcp any any eq 443
+permit udp any any eq 53
+permit ip any any
+permit tcp any any eq 22

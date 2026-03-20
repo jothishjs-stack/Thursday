@@ -1,0 +1,4 @@
+sh run
+sh ver
+sh aaa servers
+sh logg
